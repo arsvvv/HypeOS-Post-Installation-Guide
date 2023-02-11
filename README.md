@@ -3,5 +3,5 @@
 
 [RU] Руководство по настройке образа Windows 10 - HypeOS [https://dsc.gg/hypeos] для тех людей, которые не могут самостоятельно разобраться в настройке образа.
 
-[EN] Guide to setup Windows 10 custom .iso - HypeOS [https://dsc.gg/hypeos] for the people, who can't tweak it by himself or have any questions.
+[EN] Guide to setup Windows 10 custom .iso - HypeOS [https://dsc.gg/hypeos] for the people, who can't set it up by himself or have any questions.
 Please don't forget, that the guide is made only on russian, but you still can use translator and check the guide.
