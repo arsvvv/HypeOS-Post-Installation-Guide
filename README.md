@@ -17,5 +17,3 @@
 
 [EN] Guide to setup Windows 10 custom .iso - HypeOS [https://dsc.gg/hypeos] for the people, who can't set it up by himself or have any questions.
 Please don't forget, that the guide is made only on russian, but you still can use translator and check the guide.
-
-![HYPEOS!](/media/hypeos-background.jpg)
