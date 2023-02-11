@@ -1,9 +1,9 @@
 # HypeOS Post-Installation Guide
 
 ## Руководства по настройке:
-[Настройка HypeOS 10 1809 v0.0.1](/docs/HypeOS 10 1809 v0.0.1.md)
+[Настройка HypeOS 10 1809 v0.0.1](/docs/HypeOS-10-1809-v0.0.1.md)
 
-[Настройка HypeOS 10 21H2 v0.0.9](/docs/HypeOS 10 21H2 v0.0.9.md)
+[Настройка HypeOS 10 21H2 v0.0.9](/docs/HypeOS-10-21H2-v0.0.9.md)
 
 ## Дополнительный контент репозитория:
 [Часто задаваемые вопросы](/docs/FAQ.md)
